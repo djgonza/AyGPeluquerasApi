@@ -1,0 +1,7 @@
+{
+	"staticContent": "/public",
+	"imagesPath": "public/images/",
+	"maxJsonFileAccept": "10mb",
+	"databaseString": "mongodb://localhost:27017/AyG",
+	"jwtSecret": "secretsddsdsd"
+}
